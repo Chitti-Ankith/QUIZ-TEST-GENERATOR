@@ -1,0 +1,19 @@
+F
+F
+8
+32b
+bytecode
+T
+JVM
+32
+T
+James Gosling
+T
+javac
+Unicode
+4
+%
+4
+T
+Java
+T
